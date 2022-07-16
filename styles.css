@@ -31,6 +31,7 @@ h3 {
   color:#11999E;
   text-align: left;
 }
+/*using anachr tag to change the background colour of the ancahor tag*/
 a {
   color: #11999E;
 }
@@ -40,7 +41,7 @@ div {
   padding-top: 100px;
 }
 
-
+/*complete stling of the skill row section in the page*/
 .skill-row {
   width: 50%;
   /*margin-left: 25%;
@@ -76,6 +77,7 @@ div {
 .skills{
   margin-top: 0;
 }
+/* i tried this is not working so i directly menyioned height and width in html style tag onlly*/
 .varun{
   width: 20%;
   height: 20%;
@@ -113,6 +115,7 @@ hr {
   width:200px;
   border-color: #11999E;
 }
+/*here i am getting gap between the anchor tags*/
 a {
     /*display: inline-block;*/
     text-decoration: none;
