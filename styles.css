@@ -8,7 +8,7 @@ body {
 .pro{
   text-decoration: underline;
 }
-
+/* styling h1 tag for all the h1 ones in the complete code*/
 h1 {
   margin:50px auto 0 auto;
   font-family: 'Sacramento', cursive;
@@ -24,7 +24,7 @@ h2 {
   color: #11999E;
   font-weight: normal;
 }
-
+/*styling h3 for all the code*/
 h3 {
   font-family: 'Montserrat', sans-serif;
   color:#11999E;
@@ -79,6 +79,7 @@ div {
   width: 20%;
   height: 20%;
 }
+/*i used a online button generator tool to generate this button thing ok na*/
 .btn {
   background: #11CDD4;
   background-image: -webkit-linear-gradient(top, #11CDD3, #11999E);
