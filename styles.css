@@ -62,14 +62,14 @@ div {
 }
 .secondcloud {
   position: absolute;
-  left: 2750%;
+  left: 440px;
 }
 .center {
   text-align: center;
 }
 .firstcloud {
   position: relative;
-  left: 3000px;
+  left: 480px;
   top: 10px;
 }
 .skills{
