@@ -1,0 +1,118 @@
+body {
+  /*background-color: blue;*/
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-family: 'Merriweather', serif;
+}
+.pro{
+  text-decoration: underline;
+}
+
+h1 {
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #11999E;
+  line-height: 2;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.300rem;
+  color: #11999E;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+  text-align: left;
+}
+a {
+  color: #11999E;
+}
+div {
+  background-color: #E4F9F5;
+  border: 10px;
+  padding-top: 100px;
+}
+
+
+.skill-row {
+  width: 50%;
+  /*margin-left: 25%;
+  margin-right: 25%;*/
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.hack {
+  height:25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.secondcloud {
+  position: absolute;
+  left: 440px;
+}
+.center {
+  text-align: center;
+}
+.firstcloud {
+  position: relative;
+  left: 480px;
+  top: 10px;
+}
+.skills{
+  margin-top: 0;
+}
+.varun{
+  width: 20%;
+  height: 20%;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD3, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(top, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 8px;
+  width:200px;
+  border-color: #11999E;
+}
+a {
+    /*display: inline-block;*/
+    text-decoration: none;
+    margin: 30px;
+}
