@@ -66,6 +66,12 @@ div {
   position: absolute;
   left: 440px;
 }
+@media (max-width:1028px) {
+  .secondcloud {
+    position: absolute;
+    left:30px;
+  }
+}
 .center {
   text-align: center;
 }
